@@ -1,0 +1,35 @@
+[{
+    "name": "iphone",
+    "price": "154",
+    "featured": "true",
+    "company": "apple"
+},
+{
+    "name": "iphone10",
+    "price": "1154",
+    "company": "apple"
+},
+{
+    "name": "iphone14",
+    "price": "4000",
+    "featured": "true",
+    "company": "apple"
+},
+{
+    "name": "pixel7A",
+    "price": "2500",
+    "featured": "true",
+    "company": "google"
+},
+{
+    "name": "samsungnote10",
+    "price": "3000",
+    "featured": "true",
+    "company": "samsung"
+},
+{
+    "name": "samsungedge10",
+    "price": "1500",
+    "company": "samsung"
+}
+]
